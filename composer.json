@@ -1,0 +1,17 @@
+{
+    "name": "tripup/parser-worker",
+    "description": "Parser workers api",
+    "type": "project",
+    "require": {
+        "silex/silex": "~2.0",
+        "doctrine/dbal": "~2.2",
+        "zircote/swagger-php": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "A. Lisnyak",
+            "email": "andrey.lisnyak@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
